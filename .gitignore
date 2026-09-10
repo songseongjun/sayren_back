@@ -37,3 +37,7 @@ out/
 .vscode/
 
 secret
+
+# JVM crash / replay logs
+hs_err_pid*.log
+replay_pid*.log
